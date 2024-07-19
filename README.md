@@ -35,7 +35,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/Visionx-x/MU
+   git clone https://github.com/Visionx-x/Md
    ```
 6. **Install Requirements**
    ```bash
